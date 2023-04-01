@@ -12,7 +12,7 @@ public class GetterSetterExample
     {  
       GetterSetterExample obj = new GetterSetterExample();      
         
-      obj.salary = -50000;  
+      obj.salary = 100000;  
         
       // storing salary in database  
       obj.storeSalaryDB(salary);  
