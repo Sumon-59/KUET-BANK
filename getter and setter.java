@@ -11,8 +11,7 @@ public class GetterSetterExample
     public static void main(String argvs[])   
     {  
       GetterSetterExample obj = new GetterSetterExample();      
-        
-      obj.salary = -50;  
+      obj.salary = 100000; 
         
       // storing salary in database  
       obj.storeSalaryDB(salary);  
